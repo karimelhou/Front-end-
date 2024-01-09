@@ -23,11 +23,3 @@ You can take a look at following flow to have an overview of Requests and Respon
 ## Angular JWT App Diagram with Router and HttpInterceptor
 ![angular-16-jwt-authentication](angular-16-jwt-authentication.png)
 
-For more detail, please visit the tutorial:
-> [Angular 16 JWT Authentication & Authorization with Web API example](https://www.bezkoder.com/angular-16-jwt-auth/)
-
-> [Angular 16 Logout when Token is expired](https://www.bezkoder.com/logout-when-token-expired-angular-16/)
-
-> [Angular 16 Refresh Token with Interceptor & JWT example](https://www.bezkoder.com/angular-16-refresh-token/)
-
-
